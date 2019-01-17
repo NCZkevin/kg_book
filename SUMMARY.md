@@ -11,7 +11,7 @@
 	* [2.1 知识表示和查询语言](content/chapter2/2.1-chinese.md)
 	* [2.2 本体和词汇](content/chapter2/2.2-chinese.md)
 	* [2.3 数据提示标准](content/chapter2/2.3-chinese.md)
-	* [2.4 知识图谱与关联数据](content/chapter2/2.4-chinese.md)
+	* [2.4 知识图谱与链接数据](content/chapter2/2.4-chinese.md)
 	* [2.5 用于web搜索的知识图谱和用于企业的知识图谱](content/chapter2/2.5-chinese.md)
 * [第3章 在组织中的知识体系结构](content/chapter3/3.0-chinese.md)
 	* [3.1 体系结构概览](content/chapter3/3.1-chinese.md)

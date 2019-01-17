@@ -1,8 +1,8 @@
-# 关联数据和知识图谱在大型组织中的应用
+# 开发大型组织中的链接数据和知识图谱
 
-> 纯粹出于学习目的与个人兴趣翻译本书，如有意见欢迎交流
+翻译进度 3%
 
-## 目录
+# 目录
 
 * [前言](content/preface/preface-chinese.md)
 * [第1章 企业知识图谱介绍](content/chapter1/1.0-chinese.md)
@@ -15,7 +15,7 @@
 	* [2.1 知识表示和查询语言](content/chapter2/2.1-chinese.md)
 	* [2.2 本体和词汇](content/chapter2/2.2-chinese.md)
 	* [2.3 数据提示标准](content/chapter2/2.3-chinese.md)
-	* [2.4 知识图谱与关联数据](content/chapter2/2.4-chinese.md)
+	* [2.4 知识图谱与链接数据](content/chapter2/2.4-chinese.md)
 	* [2.5 用于web搜索的知识图谱和用于企业的知识图谱](content/chapter2/2.5-chinese.md)
 * [第3章 在组织中的知识体系结构](content/chapter3/3.0-chinese.md)
 	* [3.1 体系结构概览](content/chapter3/3.1-chinese.md)
@@ -50,15 +50,3 @@
 	* [9.2 知识图谱入门](content/chapter9/9.2-chinese.md)
 	* [9.3 未来：专家对知识图谱未来的预测](content/chapter9/9.3-chinese.md)
 
-## 联系方式
-
-> 项目负责人
-
-* [@nczkevin](https://github.com/nczkevin)
-* [@suisui](https://github.com/JewelYueng)
-
-## 免责声明
-
-本人纯粹出于学习目的与个人兴趣翻译本书，不追求任何经济利益。
-
-本译文只供学习研究参考之用，不得用于商业用途。保留对此版本译文的署名权及其它相关权利。
