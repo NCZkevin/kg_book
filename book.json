@@ -1,0 +1,9 @@
+{
+    "title": "关联数据和知识图谱在大型组织中的应用",
+    "description": "",
+    "author": "nczkevin & suisui",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": ">=3.2.3",
+    "plugins": ["katex"]
+}
